@@ -1,2 +1,2 @@
-# portfolio-redsign
+# portfolio-redesign
 My personal portfolio redesign
